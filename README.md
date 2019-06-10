@@ -1,6 +1,4 @@
-# eixa6_vpn
-Dossier et documentation VPN Eixa6
-
+# Routeur_vpn
 
 
 
@@ -18,8 +16,6 @@ Inconvénients:
 >Open VPN est moins facile à installer que d’autres protocoles VPN, et l’installation d’un VPN avec OpenVPN peut être complexe pour certains clients, vu qu’elle nécessite d’installer une application spéciale pour le client. Le protocole Open VPN n’est pas non plus pris en charge par certains appareils mobiles.
 
 
-![alt text]()
->Schéma réseau Eixa6
 
 
 
