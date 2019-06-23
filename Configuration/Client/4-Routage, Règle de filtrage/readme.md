@@ -12,9 +12,9 @@ apt-get install iptables
 <br>
 
 
-Nous allons maintenant faire en sorte que le port 6542 soit accepté en entrée et en sortie via le protocole TCP.
+Nous allons maintenant faire en sorte que le port soit accepté en entrée et en sortie via le protocole TCP.
 ```shell
-iptables -t filter -A INPUT -p tcp --dport 6542 -j ACCEPT
+iptables -t filter -A INPUT -p tcp --dport PORT -j ACCEPT
 ```
 <br>
 <br>
@@ -47,8 +47,6 @@ Nous allons pour finir tester les paramètres que nous avons rentrés:
 ```shell
 iptables -L
 ```
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/Configuration/Client/4-Routage%2C%20R%C3%A8gle%20de%20filtrage/Test%20Pare%20feu.png)
->Cela devrait vous affichez une table comme celle ci-dessus.
 
 
 
