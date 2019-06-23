@@ -37,7 +37,7 @@ iptables -t nat -A POSTROUTING -s 10.8.0.0/24 -o eh0 -j MASQUERADE
 
 Une fois tous ces paramètres rentrés, il faut les rendre persistant (faire en sorte que ces paramètres soit disponible après un redémarrage).
 ```shell
-iptables-save > /etc/iptables.rules //pare feu 4
+iptables-save > /etc/iptables.rules 
 ```
 
 <br>
