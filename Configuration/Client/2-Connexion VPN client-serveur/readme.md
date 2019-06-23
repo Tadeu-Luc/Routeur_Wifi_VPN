@@ -11,7 +11,7 @@ Transfert de fichier de configuration
 
 Nous allons après cela devoir transferer notre fichier de configuration créer par notre serveur sur le client pour que l'interface TUN sache à qui elle doit se connecter ainsi que les protocoles de transport qu'elle devra prendre en compte (UDP ou TCP), dans notre cas le TCP restera la meilleure solution, car il permet une liasion qui redemandera les informations si elles ont perdu (exemple: le tcp permettra une meilleure utilisation pour les transferts de fichiers ou lors de l'impression car si un paquet est perdu le protocole le renverra contrairement à l'UDP).
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/Configuration/Client/2-Connexion%20VPN%20client-serveur/PROTO.jpeg)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/Configuration/Client/2-Connexion%20VPN%20client-serveur/PROTO.jpeg)
 >différence TCP et UDP
 
 Utilisez pour cela une clé USB pour chercher votre fichier de configuration sur votre serveur (essayer de ne pas utiliser le réseau pour l'envoi des fichiers de configuration sinon l'opération de sécurisé le VPN n'aura servi à rien).
