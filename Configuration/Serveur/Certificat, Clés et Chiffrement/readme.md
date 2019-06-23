@@ -18,7 +18,7 @@ Ce qu'il reste à faire est de créer le certificat, les fichiers du serveur, cl
 <br>
 
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/Cl%C3%A9%20utilit%C3%A9.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/Configuration/Serveur/Certificat%2C%20Cl%C3%A9s%20et%20Chiffrement/Cl%C3%A9%20utilit%C3%A9.png)
 >Utilités des différents fichiers.
 <br>
 
@@ -66,7 +66,7 @@ Une fois le nettoyage fait, vous pourrez rentrer la commande:
 <br>
 
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/ca.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/OpenVPN/ca.png)
 >Vous aurez le choix de remplir ou non les differentes informations (vous pouvez aussi les passer).
 <br>
 <br>
@@ -83,7 +83,7 @@ Vous allez maintenant créer via le fichier de script le serveur:
 >Le nom n'a pas d'importance (il faudra juste le signifié quand on vous le demandera). 
 <br>
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/Serveur.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/OpenVPN/Serveur.png)
 >Vous aurez le choix de remplir ou non les differentes informations (vous pouvez aussi les passer).
 <br>
 
@@ -283,7 +283,7 @@ key /etc/openvpn/server.key
 
 Si vous avez fait la phase optionnelle mettez votre TLS dans le fichier de configuration :
 <br>
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/TLS%20AUTHENTIFICATION.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/OpenVPN/TLS.png)
 >Comme celle-ci dessus.
 <br>
 <br>
@@ -298,5 +298,5 @@ Attention au fichier créer en .ovpn si vous souhaitez executer la commande pour
 
 Sur votre client, vous devriez avoir ceci lors de vos tests:
 <br>
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/connexion%20client.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/OpenVPN/connexion%20client.png)
 >Si vous avez "Initialization Sequence Compilation", cela signifie que la connexion est effective (il faut laisser la page ouverte pour que le VPN reste actif).
