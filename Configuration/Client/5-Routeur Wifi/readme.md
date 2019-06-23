@@ -35,7 +35,7 @@ http://10.3.141.1/index.php?page=wlan0_info
 ```
 <br>
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/Raspap/2019-05-22%2020_46_52-Raspbian%20WiFi%20Configuration%20Portal.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/Raspap/2019-05-22%2020_46_52-Raspbian%20WiFi%20Configuration%20Portal.png)
 >La page d'acceuil se présente comme ça après s'être authentifié.
 <br>
 
@@ -51,7 +51,7 @@ http://10.3.141.1/index.php?page=dhcpd_conf
 
 <br>
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/Raspap/2019-05-24%2011_48_27-Raspbian%20WiFi%20Configuration%20Portal.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/Raspap/2019-05-24%2011_48_27-Raspbian%20WiFi%20Configuration%20Portal.png)
 
 Fichier de logs:
 --
@@ -65,7 +65,7 @@ http://10.3.141.1/index.php?page=hostapd_conf //onglet logfile
 
 <br>
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/Raspap/2019-05-24%2011_50_55-Raspbian%20WiFi%20Configuration%20Portal.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/Raspap/2019-05-24%2011_50_55-Raspbian%20WiFi%20Configuration%20Portal.png )
 
 
 <br>
@@ -82,7 +82,7 @@ http://10.3.141.1/index.php?page=auth_conf
 
 <br>
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/Raspap/2019-05-24%2011_52_19-Raspbian%20WiFi%20Configuration%20Portal.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/Raspap/2019-05-24%2011_52_19-Raspbian%20WiFi%20Configuration%20Portal.png)
 
 ```shell
 IP address: 10.3.141.1
