@@ -14,7 +14,7 @@ ou alors
 AUTOSTART="nomdufichierclient" //2 eme ligne, permet de prendre en compte un seul fichier (plus sécurisé), le fichier client est le fichier .conf de /etc/open/nomdeclient.conf.
 ```
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/Configuration/Client/3-Fichier%20systemctl%20(ouverture%20automatique%20de%20openvpn)/Fichier%20autorun%20default.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/Configuration/Client/3-Fichier%20systemctl%20(ouverture%20automatique%20de%20openvpn)/Fichier%20autorun%20default.png)
 
 
 OpenVPN étant un service du système, il permet de se lancer tout seul au démarage, toutefois pour lui faire prendre en compte les nouveaux paramètres rentrés, nous allons relancer le processus et relancer le service.
