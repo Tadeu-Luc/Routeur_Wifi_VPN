@@ -14,9 +14,9 @@ apt-get install iptables
 <br>
 
 
-Nous allons maintenant faire en sorte que le port 6542 soit accepté en entrée et en sortie via le protocole TCP.
+Nous allons maintenant faire en sorte que le port soit accepté en entrée et en sortie via le protocole TCP.
 ```shell
-iptables -t filter -A INPUT -p tcp --dport 6542 -j ACCEPT
+iptables -t filter -A INPUT -p tcp --dport PORT -j ACCEPT
 ```
 <br>
 <br>
