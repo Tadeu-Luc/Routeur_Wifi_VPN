@@ -91,7 +91,7 @@ Le script se présente comme celui du certificat master a une différence.
 <br>
 
 
-![alt text](https://github.com/Eixa6Info/eixa6_vpn/blob/master/img/OpenVPN/cl%C3%A9%20serveur.png)
+![alt text](https://github.com/Tadeu-Luc/Routeur_Wifi_VPN/blob/master/img/OpenVPN/cl%C3%A9%20serveur.png)
 >Vous aurez à remplir cette partie avec un mots de passe.
 Pour génerer des mots de passes sécurisés:
 >https://www.lastpass.com/fr         
