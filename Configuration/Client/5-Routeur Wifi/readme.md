@@ -121,15 +121,4 @@ define('RASPI_OPENVPN_ENABLED', true );
 ```
 <br>
 
-Page d'administration (Actuellement)
---
 
-```shell
-Page d'administration (actuel)
-IP address: 10.3.141.1
-Username: admin
-Password: @Eixa6
-DHCP range: 10.3.141.50 to 10.3.141.254
-SSID: Fabien-wifi
-Password: l20tRlklyu9iYE9GGlSLCKmWCgjE
-```
